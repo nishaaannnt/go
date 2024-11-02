@@ -1,0 +1,6 @@
+Your Bill Breakdown: 
+
+carrot:                   ...12 Rupees
+
+Tip:                      ...12.00 Rupees
+Total:                    ...24.00 Rupees
