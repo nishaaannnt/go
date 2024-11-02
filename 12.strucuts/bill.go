@@ -33,6 +33,7 @@ func newBill(name string) bill {
 // format() ❌
 
 // receiver function -> also is a copy of obj(bill)
+// basically methodsss
 func (b *bill) format() string {
 	fs := "Your Bill Breakdown: \n\n"
 	var total float64 = 0
